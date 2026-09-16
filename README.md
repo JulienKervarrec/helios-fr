@@ -1,3 +1,7 @@
+## Parcours français
+
+Consulter le parcours documentaire francophone consacré au client léger multichaîne Helios dans [docs/fr](docs/fr/).
+
 ## Helios
 
 [![build](https://github.com/a16z/helios/actions/workflows/test.yml/badge.svg)](https://github.com/a16z/helios/actions/workflows/test.yml) [![license: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![chat](https://img.shields.io/badge/chat-telegram-blue)](https://t.me/+IntDY_gZJSRkNTJj)
